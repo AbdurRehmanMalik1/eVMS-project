@@ -50,13 +50,8 @@ Access the dashboard to view real-time graphs and charts representing various me
 Number Plate Scanning
 
 Use the integrated scanner to automatically capture and process number plate information, reducing manual data entry and errors.
-Contributing
-Contributions are welcome! Please fork this repository and submit pull requests with your improvements.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-For questions, suggestions, or feedback, please contact [your email].
+For questions, suggestions, or feedback, please contact abdurrehman4415@gmail.com.
 
 Thank you for using the Vehicle Management System. We hope it makes managing your vehicle fleet easier and more efficient!
