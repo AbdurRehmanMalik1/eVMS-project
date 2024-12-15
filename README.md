@@ -20,7 +20,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/AbdurRehmanMalik1/vehicle-management-system.git
+https://github.com/AbdurRehmanMalik1/eVMS-project.git
 cd vehicle-management-system
 Set Up Firebase
 
